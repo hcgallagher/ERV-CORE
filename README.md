@@ -8,7 +8,7 @@ Those interested in the data should contact the UoM research team or the ERV Ree
 
 The project is covered by UoM Ethics approval 23373.
 
-The .sps files pertain to transformations that HAVE ALREADY OCCURRED with the shared datafile. They do not need to be rerun unless bugs are obtained.
+The .sps files pertain to transformations that HAVE ALREADY OCCURRED with the shared datafile. They do not need to be rerun unless bugs are found.
 
 A data dictionary is also included.
 
